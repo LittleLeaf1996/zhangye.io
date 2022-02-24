@@ -3,6 +3,7 @@
 import Vue from 'vue'
 import App from './App'
 import router from './router'
+// import Phone from './assets/js/phone.js'
 
 Vue.config.productionTip = false //阻止启动生产消息
 
